@@ -1,3 +1,9 @@
+cmd
+create-react-app nome do site
+
+npm start
+
+
 Reforçando componentes
 Vamos lá relembrar quais são os Tipos de Componentes?
 
