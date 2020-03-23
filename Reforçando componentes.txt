@@ -1,3 +1,6 @@
+install -g create-react-app
+
+npm install -g create create-react-app
 cmd
 create-react-app nome do site
 
